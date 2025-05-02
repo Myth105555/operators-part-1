@@ -1,0 +1,9 @@
+tree1=98
+tree2=94
+tree3=41
+tree4=96
+tree5=11
+sum=tree2+tree1+tree3+tree4+tree5
+print(sum)
+average=sum/5
+print("average of Jacks front yard trees ", average)
