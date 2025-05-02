@@ -1,0 +1,8 @@
+hindi=40
+english=50
+maths=60
+science=70
+sum=maths+hindi+english+science
+print(sum)
+pecentage=(sum/400)*100
+print("pecentage of raj result ", pecentage)
